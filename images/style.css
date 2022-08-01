@@ -1,0 +1,186 @@
+.helpKabartmaActiveOver {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #ffffff 1px solid; CURSOR: hand; COLOR: #222222; BORDER-BOTTOM: #aaaaaa 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #fafafa
+}
+.helpKabartmaOver {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #dddddd 1px solid; CURSOR: hand; COLOR: #222222; BORDER-BOTTOM: #aaaaaa 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #ededed
+}
+.helpKabartmaActive {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #ffffff 1px solid; COLOR: #222222; BORDER-BOTTOM: #aaaaaa 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #fafafa
+}
+.helpKabartma {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #ffffff 1px solid; COLOR: #232425; BORDER-BOTTOM: #aaaaaa 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #d3d3d3
+}
+.kabartma {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #ffffff 1px solid; COLOR: #222222; BORDER-BOTTOM: #aaaaaa 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #ebebeb
+}
+.kabartmaAlt {
+	FONT-SIZE: 10px; BORDER-LEFT: #dddddd 1px solid; COLOR: #222222; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #dddddd
+}
+.kabartmaAlt2 {
+	BORDER-RIGHT: #dddddd 1px solid; FONT-SIZE: 10px; COLOR: #222222; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #dddddd
+}
+.kabartmaActiveAlt {
+	FONT-SIZE: 10px; COLOR: #222222; BORDER-BOTTOM: #dddddd 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #fafafa
+}
+.kabartmaDisabled {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #dddddd 1px solid; COLOR: #555555; BORDER-BOTTOM: #aaaaaa 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #cccccc
+}
+.kabartmaOver {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #dddddd 1px solid; CURSOR: hand; COLOR: #222222; BORDER-BOTTOM: #aaaaaa 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #c0c0c0
+}
+.kabartmaActive {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #ffffff 1px solid; COLOR: #222222; BORDER-BOTTOM: #aaaaaa 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #fafafa
+}
+.kabartmaActiveOver {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #ffffff 1px solid; CURSOR: hand; COLOR: #222222; BORDER-BOTTOM: #aaaaaa 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #fafafa
+}
+.kabartma2 {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #dddddd
+}
+.kabartma2Over {
+	FONT-SIZE: 11px; CURSOR: hand; COLOR: #000000; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #c0c0c0
+}
+.kabartma2Disabled {
+	FONT-SIZE: 11px; CURSOR: default; COLOR: #cccccc; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #c0c0c0
+}
+.kabartmaHeader {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #000000; FONT-COLOR: #222222
+}
+.solidBorderTable {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+.kabartmaBorder {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #dddddd 1px solid; BORDER-BOTTOM: #aaaaaa 1px solid; BACKGROUND-COLOR: #dddddd
+}
+.helpHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #333355; FONT-FAMILY: Verdana, sans-serif, Arial, Helvetica
+}
+.helpOzet {
+	FONT-SIZE: 11px; COLOR: #553333; FONT-FAMILY: Verdana, sans-serif, Arial, Helvetica
+}
+.helpMetin {
+	FONT-SIZE: 10px; COLOR: #000022; FONT-FAMILY: Verdana, sans-serif, Arial, Helvetica
+}
+.header1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, sans-serif, Arial, Helvetica
+}
+.header2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, sans-serif, Arial, Helvetica
+}
+.header3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, sans-serif, Arial, Helvetica
+}
+.header4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #840000; FONT-FAMILY: Verdana, sans-serif, Arial, Helvetica
+}
+.frmDis {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-SIZE: 12px; BORDER-LEFT: black 1px solid; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #eeeeee
+}
+.frmDis1 {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-SIZE: 12px; BORDER-LEFT: black 1px solid; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #D5E6F6
+}
+.frmDis_yeni {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-SIZE: 10px; BORDER-LEFT: black 1px solid; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #eeeeee
+}
+.frmBaslik_yeni {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #3a6ea5
+}
+.frmBaslik {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: white; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #3a6ea5
+}
+.frmBaslikDisabled {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #c9c9c9; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #3a6ea5
+}
+.frmIc {
+	FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Verdana, sans-serif, Arial, Helvetica
+}
+.frmIc_yeni {
+	FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana, sans-serif, Arial, Helvetica
+}
+.frmInput {
+	FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+.frmInput2 {
+	BORDER-RIGHT: #667766 1px solid; BORDER-TOP: #667766 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #667766 1px solid; COLOR: black; BORDER-BOTTOM: #667766 1px solid; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+.frmInputminiktext {
+	FONT-SIZE: 10px; WIDTH: 24px; COLOR: black; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+.frmInputCurrency {
+	FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; TEXT-ALIGN: right
+}
+.frmInputDisabled {
+	FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: lightyellow
+}
+.frmInputCurrencyDisabled {
+	FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #f0f0f0; TEXT-ALIGN: right
+}
+.frmInputminiktextDisabled {
+	FONT-SIZE: 10px; WIDTH: 24px; COLOR: black; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fffec0
+}
+.frmInputminiktextDisabledT {
+	FONT-SIZE: 10px; WIDTH: 34px; COLOR: black; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fffec0
+}
+.frmList {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-SIZE: 11px; BORDER-LEFT: black 1px solid; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; FONT-COLOR: black
+}
+.frmListIc1 {
+	BACKGROUND-COLOR: #eeeeee
+}
+.frmListIc2 {
+	BACKGROUND-COLOR: #ffffff
+}
+.frmListIc3 {
+	COLOR: red; BACKGROUND-COLOR: #ffffff
+}
+.frmList A:link {
+	FONT-SIZE: 11px; COLOR: #3a6ea5; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; TEXT-DECORATION: none
+}
+.frmList A:visited {
+	FONT-SIZE: 11px; COLOR: #3a6ea5; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; TEXT-DECORATION: none
+}
+.frmListBaslik {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: white; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #3a6ea5
+}
+A:link {
+	FONT-SIZE: 11px; COLOR: #3a6ea5; FONT-FAMILY: sans-serif, Arial, Helvetica; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 11px; COLOR: #3a6ea5; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; TEXT-DECORATION: none
+}
+.frmListKucuk {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-SIZE: 10px; BORDER-LEFT: black 1px solid; COLOR: black; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica
+}
+.frmListEnKucuk {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-SIZE: 9px; BORDER-LEFT: black 1px solid; COLOR: black; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica
+}
+.frmListBaslikKucuk {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: white; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #3a6ea5
+}
+.frmDisToolbar {
+	BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #eeeeee
+}
+.frmButton {
+	FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica
+}
+.frmButtonBar {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BORDER-LEFT: black 1px solid; COLOR: black; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #fafafa
+}
+.frmButtonBarOver {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BORDER-LEFT: black 1px solid; CURSOR: hand; COLOR: black; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #cccccc
+}
+.frmListBaslikEnKucuk {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: white; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica; BACKGROUND-COLOR: #3a6ea5
+}
+.submitButton {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 11px; BACKGROUND: #ffffff; BORDER-LEFT: #cccccc 1px solid; CURSOR: hand; COLOR: #000000; BORDER-BOTTOM: #aaaaaa 1px solid; FONT-FAMILY: Tahoma,sans-serif; HEIGHT: 19px; TEXT-DECORATION: none
+}
+.frmFooter {
+	FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica
+}
+.frmInputDisabled2 {
+	BORDER-RIGHT: #667766 1px solid; BORDER-TOP: #667766 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #667766 1px solid; COLOR: black; BORDER-BOTTOM: #667766 1px solid; FONT-FAMILY: Arial, Tahoma; BACKGROUND-COLOR: ivory
+}
+.frmHeaderLink {
+	FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Tahoma, sans-serif, Arial, Helvetica
+}
